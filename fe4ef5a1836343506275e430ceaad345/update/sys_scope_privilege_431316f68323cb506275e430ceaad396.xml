@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope display_value="Automacão de incidentes">fe4ef5a1836343506275e430ceaad345</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-29 12:38:05</sys_created_on>
+        <sys_id>431316f68323cb506275e430ceaad396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident</sys_name>
+        <sys_package display_value="Automacão de incidentes" source="x_1319177_automa_0">fe4ef5a1836343506275e430ceaad345</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automacão de incidentes">fe4ef5a1836343506275e430ceaad345</sys_scope>
+        <sys_update_name>sys_scope_privilege_431316f68323cb506275e430ceaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-29 12:38:05</sys_updated_on>
+        <target_name>incident</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>
